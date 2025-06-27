@@ -10,3 +10,4 @@ Bonus: If you have trash internet like I do and it cuts out a lot, clone the rep
 
 Bonus Bonus: If you try to build a mod without internet for the first time, it won't build, however, if you copy it over to a mod you have built, it will if you build it from there.
 
+Bonus Bonus Bonus:  In your mod.rs file, when you pste in a script, unless your going to use them, delete the line like expression_attackairf, or effect_attackhi3. It'llkeep your mod organized, and make it less bloated when you export. 
